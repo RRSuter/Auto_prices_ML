@@ -1,3 +1,4 @@
+## These are reference files/notes from the Microsoft Course on Linear Regression. Not my work.
 ## Import packages
 library(ggplot2)
 library(repr)
